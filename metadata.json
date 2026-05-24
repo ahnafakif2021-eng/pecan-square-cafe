@@ -1,0 +1,6 @@
+{
+  "name": "Pecan Square Cafe",
+  "description": "A high-end, premium responsive redesign for Pecan Square Café, featuring menus, reservations, and group dining with an elegant modern aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
